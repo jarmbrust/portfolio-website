@@ -1,3 +1,37 @@
+# Portfolio Website for a Software Engineer
+
+This is a modern portfolio website built with React 19, Next.js, TailwindCSS, TypeScript, ESLint, and Prettier.
+
+## Getting Started
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to view your site.
+
+## Formatting & Linting
+
+- Format code: `npm run format`
+- Lint code: `npm run lint`
+
+## Features
+
+- React 19 & Next.js App Router
+- TailwindCSS for styling
+- TypeScript for type safety
+- ESLint & Prettier for code quality
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
