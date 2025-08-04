@@ -1,6 +1,6 @@
-# Portfolio Website for a Software Engineer
+# Portfolio Website
 
-This is a personal portfolio website built with React 19, Next.js, TailwindCSS, and TypeScript.
+This is my personal portfolio website built with React 19, Next.js, TailwindCSS, and TypeScript.
 
 ## Getting Started
 
