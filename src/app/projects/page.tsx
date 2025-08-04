@@ -17,7 +17,7 @@ export default function Projects() {
         but for personal projects where there is little in the way of time-crunch I wanted to
         keep my coding skills sharp as possible by not relying on it too heavily.
       </p>
-      <p className="text-lg mb-4">While this app is somewhat based on my experiences with e-commerce apps, ultimately it is a bit 
+      <p className="text-lg mb-4">While this app is somewhat based on my experiences with e-commerce sites, ultimately it is a bit 
         of a silly game.  However, I enjoyed making it was fun to build and I hope you enjoy it too.  If you have any feedback, 
         comments, or suggestions, please let me know.
       </p>
