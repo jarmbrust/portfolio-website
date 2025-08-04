@@ -22,9 +22,9 @@ export default function About() {
         for possible full-stack opportunities.
       </p>
       <p className="text-lg mb-4">
-        I live with my wife and our two dogs and three cats.  As of this writing, we are in the process of moving from Colorado 
-        to North Carolina to be closer to family.  I am currently looking for new opportunities in the area (or remotely) for this
-        new chapter of our lives.
+        In my personal life, I live with my wife and our two dogs and three cats.  As of this writing (August 2025), 
+        we are in the process of moving from Colorado to North Carolina to be closer to family.  
+        I am currently looking for new opportunities in the area (or remotely) for this new chapter of our lives.
       </p>
     </div>
   );
