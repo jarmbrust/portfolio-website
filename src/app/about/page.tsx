@@ -15,10 +15,11 @@ export default function About() {
       </p>
       <p className="text-lg mb-4">
         Since that time, I have worked as a software engineer for a number of companies, including everything from start-ups to
-        somewhat large corporations.  There I have utilized a wide range of technologies, including SQL (SQL Server and PostgreSQL mostly),
-        C#, Java, jQuery, JavaScript, HTML, and CSS.  More recently (just over the last five years) I have focused my efforts in Vue.js,
-        React, Next.js, Node.js, and TypeScript, amongst others as a frontend developer.  While I am primarily focused on the frontend,
-        I am currently refreshing my SQL skills and digging a little more into Node.js for possible fullstack opportunities as well.
+        somewhat large corporations.  In the past, I have utilized a wide range of technologies, including SQL (SQL Server and PostgreSQL mostly),
+        C#, Java, jQuery, JavaScript, HTML, and CSS.  More recently (just over the last five years) I have focused my efforts on the frontend using 
+        Vue.js, React, Next.js, Node.js, and TypeScript amongst others.  While I am primarily focused on the frontend,
+        I am also working on refreshing my SQL skills, digging a little more into my Node.js experience, and building on my understanding of Python
+        for fullstack opportunities.
       </p>
       <p className="text-lg mb-4">
         In my personal life, I live with my awesome wife and our two dogs and three cats.  As of this writing (August 2025), 
