@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div className="flex-1 flex flex-col items-center justify-center w-full text-white">
+    <div className="flex-1 flex flex-col items-center justify-center w-full">
       <h1 className="text-4xl font-bold mb-4">Who Am I?</h1>
       <p className="text-lg mb-4">I am a software engineer, writer, gamer (table-top and online), animal-lover, and life-long learner.
         I originally started programming long ago on the ancient computer my family could afford back when I was 12. 
@@ -14,7 +14,7 @@ export default function About() {
         the university as many hours as I could manage. After about three years of hard work, I graduated with a BS in Computer Science.
       </p>
       <p className="text-lg mb-4">
-        Since that time, I have worked as a software engineer for a number of companies, including everything from start-ups to
+        Since that time, I have worked as a software engineer for a number of companies, including everything from small start-ups to
         somewhat large corporations.  In the past, I have utilized a wide range of technologies, including SQL (SQL Server and PostgreSQL mostly),
         C#, Java, jQuery, JavaScript, HTML, and CSS.  More recently (just over the last five years) I have focused my efforts on the frontend using 
         Vue.js, React, Next.js, Node.js, and TypeScript amongst others.  While I am primarily focused on the frontend,
