@@ -16,9 +16,10 @@ export default function About() {
       <p className="text-lg mb-4">
         Since that time, I have worked as a software engineer for a number of companies, including everything from small start-ups to
         somewhat large corporations.  In the past, I have utilized a wide range of technologies, including SQL (SQL Server and PostgreSQL mostly),
-        C#, Java, jQuery, JavaScript, HTML, and CSS.  More recently I have focused my efforts on the frontend using 
-        Vue.js, React, Next.js, Node.js, and TypeScript amongst others.  While recently I have been focused on the frontend,
-        I am working on refreshing my SQL skills, digging a little more into my Node.js and .NET experience, and building on my understanding of Python.
+        C#, Java, jQuery, JavaScript, HTML, and CSS.  In the last few years I have mostly focused my efforts on the frontend using 
+        Vue.js, React, Next.js, Node.js, and TypeScript amongst others. More recently however,
+        I have been striving to enhance my SQL skills, digging a little more into my Node.js and .NET experience, 
+        and building on my understanding of Python.
       </p>
       <p className="text-lg mb-4">
         In my personal life, I live with my awesome wife and our two dogs and three cats.  As of this writing (August 2025), 
