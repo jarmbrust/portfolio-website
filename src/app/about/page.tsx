@@ -3,28 +3,22 @@ export default function About() {
     <div className="flex-1 flex flex-col items-center justify-center w-full">
       <h1 className="text-4xl font-bold mb-4">Who Am I?</h1>
       <p className="text-lg mb-4">I am a software engineer, writer, gamer (table-top and online), animal-lover, and life-long learner.
-        I originally started programming long ago on the ancient computer my family could afford back when I was 12. 
-        Later however, I took a bit of a break from programming when I went to college to study history. While I loved history 
-        (and still do!) I decided to return to software creation as I enjoyed the logic, creativity, and problem solving that came with it.
+        Admittedly, I haven&apos;t published fiction in quite some time, but a few speculative fiction novellas, in addition to perhaps more &quote;pic&quot; works are 
+        rattling around in my noggin. Surprisingly, I am finding the trick about becoming a writer, is the whole &quote;writing&quot; thing. Gonna lock that down soon!
       </p>
       <p className="text-lg mb-4">
-        So, a few years after graduating with my history degree, I quit my job at the local library and went back to school.
-        It was a huge challenge, as again I did this with no money and little support.  I lived in a tiny room in a rundown
-        boarding house where I taught myself the basics of calculus in order to succeed in my math classes while working for
-        the university as many hours as I could manage. After about three years of hard work, I graduated with a BS in Computer Science.
+        As for my career in software development, it goes back over ten years. While the last few have seen a focus mostly the frontend (in React and Vue, with TypeScript, etc),
+        traditionally I&apos;ve worked throughout the entire stack. Now days, I&apos;m actually quite interested in returning to a more diverse toolset, even 
+        if that is only in a subset of my role. I also have experience beyond IC roles, mentoring both mid and junior developers, as well as leading small development teams.
       </p>
       <p className="text-lg mb-4">
-        Since that time, I have worked as a software engineer for a number of companies, including everything from small start-ups to
-        somewhat large corporations.  In the past, I have utilized a wide range of technologies, including SQL (SQL Server and PostgreSQL mostly),
-        C#, Java, jQuery, JavaScript, HTML, and CSS.  In the last few years I have mostly focused my efforts on the frontend using 
-        Vue.js, React, Next.js, Node.js, and TypeScript amongst others. More recently however,
-        I have been striving to enhance my SQL skills, digging a little more into my Node.js and .NET experience, 
-        and building on my understanding of Python.
+        In my personal life, I live with my awesome wife and our two dogs and three cats. We recently (about 6-8 months ago as of this writing) relocated from
+        sunny Colorado, to slightly-less-sunny-but-a-lot-more-humid North Carolina. While I am originally from Minnesota and thus under an ever-present danger of melting, she is originally
+        from this area, and is doing quite well thank you. That said, we are definitely willing to relocate from our current home in Winston-Salem to other cities in North Carolina, 
+        or even one or two states away. I will add more details to this site soon!
       </p>
       <p className="text-lg mb-4">
-        In my personal life, I live with my awesome wife and our two dogs and three cats.  As of this writing (August 2025), 
-        we are in the process of moving from Colorado to North Carolina to be closer to family.  
-        I am currently looking for new opportunities in the area (or remotely) for this new chapter of our lives.
+        Note: I just pulled this site out of moth-balls, and will be updating it regularly until it looks slightly less lame.
       </p>
     </div>
   );
