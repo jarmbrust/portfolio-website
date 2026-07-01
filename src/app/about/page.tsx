@@ -5,7 +5,7 @@ export default function About() {
       <p className="text-lg mb-4">A very important question to ask oneself, but not too early in the morning. Generally, in addition to being a software developer 
         who loves creating and learning about code and technology, I also fancy myself a speculative fiction writer, an excellent TTRPG Game Master, and an all around decent human.
         As for the writer part, admittedly I haven&apos;t actually published any fiction in quite some time. To be fair, I don&apos;t recall technically every publishing anything. But, 
-        there definitely are a few novellas, in addition to perhaps one or more &quote;epic&quot; works are rattling around in my noggin. Surprisingly, 
+        there definitely are a few novellas, in addition to perhaps one or more &quot;epic&quot; works are rattling around in my noggin. Surprisingly, 
         I am finding the trick about becoming a writer, is the whole &quote;writing&quot; thing. Gonna lock that down soon!
       </p>
       <p className="text-lg mb-4">
