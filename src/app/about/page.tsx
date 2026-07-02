@@ -7,8 +7,8 @@ export default function About() {
         I also fancy myself a speculative fiction writer, an excellent TTRPG Game Master, an animal lover, and an all around decent human being.
         As for the writer part, admittedly I haven&apos;t actually published any fiction in quite some time. Well, to be fair, I don&apos;t recall technically 
         every publishing anything beyond one short story in my college periodical. But, there definitely are a few novellas, in addition to perhaps one 
-        or more &quot;epic&quot; works are rattling around in my noggin. Surprisingly, I am finding the trick about becoming a writer 
-        is the whole &quote;writing&quot; thing. Gonna lock that down soon!
+        or more &quot;epic&quot; works rattling around in my noggin. Surprisingly, I am finding the trick about becoming a writer 
+        is the whole &quot;writing&quot; thing. Gonna lock that down soon!
       </p>
       <p className="text-lg mb-4">
         As for my career in software development, it goes back well over ten years. While the last few have seen a focus mostly the frontend (in React and Vue, with TypeScript, etc),
