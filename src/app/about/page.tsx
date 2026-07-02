@@ -13,7 +13,7 @@ export default function About() {
       <p className="text-lg mb-4">
         As for my career in software development, it goes back well over ten years. While the last few have seen a focus mostly the frontend (in React and Vue, with TypeScript, etc),
         traditionally I&apos;ve worked throughout the entire stack. Now days, I&apos;m actually quite interested in returning to a more diverse toolset, even 
-        if that is only in a subset of my role. I also have experience beyond IC roles, mentoring both mid and junior developers, as well as leading small development teams.
+        if that ends up only being a subset of my role. I also have experience beyond IC roles, mentoring both mid and junior developers, as well as leading small development teams.
       </p>
       <p className="text-lg mb-4">
         In my personal life, I live with my awesome wife and our two dogs and three cats. We recently (about 6-8 months ago as of this writing) relocated from
