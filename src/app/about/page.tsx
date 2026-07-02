@@ -3,7 +3,7 @@ export default function About() {
     <div className="flex flex-col w-full">
       <h1 className="text-4xl font-bold mb-4 justify-start">Who Am I?</h1>
       <p className="text-lg mb-4">A very important question to ask oneself, but not too early in the morning. Generally, in addition to being a software developer 
-        who loves creating interesting, and intuitively functional, web apps, and in general learning about technology and software development. 
+        who loves creating interesting and intuitive, web apps, and who enjoys learning about technology and software development, 
         I also fancy myself a speculative fiction writer, an excellent TTRPG Game Master, an animal lover, and an all around decent human being.
         As for the writer part, admittedly I haven&apos;t actually published any fiction in quite some time. Well, to be fair, I don&apos;t recall technically 
         every publishing anything beyond one short story in my college periodical. But, there definitely are a few novellas, in addition to perhaps one 
