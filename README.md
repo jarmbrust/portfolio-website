@@ -1,20 +1,8 @@
 # Portfolio Website
 
-This is my personal portfolio website built with React 19, Next.js, TailwindCSS, and TypeScript.
+This is a personal website of mine.
 
-## Getting Started
+I am using it to host my software development portfolio, and tell a little about myself.
 
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view your site.
+Near-future plans include a blog and other writings, an email form for contacting me, and access to a version of my resume.
 

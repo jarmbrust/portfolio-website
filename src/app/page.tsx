@@ -14,7 +14,7 @@ export default function Home() {
       />
       <h1 className="text-4xl font-bold">Hi, I&apos;m James</h1>
       <p className="text-xl max-w-xl text-center">
-        Software Developer, SFF Writer, Science and Sci-Fi Enthusiast, Game Master, Amateur Historian, and (usually) upright Hominoid.
+        Software Developer, Science and Sci-Fi Enthusiast, Game Master, History-Buff, and good-natured Hominoid.
       </p>
     </div>
   );
