@@ -14,22 +14,22 @@ export default function Projects() {
         </p>
         <p className="mb-2">   
           Beyond a demonstration of my development skills and a deep-dive into a few technologies I have a strong interest in, but haven&apos;t 
-          taken the opportunity to dig into yet, the app&apos;s purpose will be to allow users to create an account and log in with it to author, 
+          taken the opportunity to more than play with yet, the app&apos;s purpose will be to allow users to create an account and log in with it to author, 
           store, modify, search, add notes to, and share their favorite, or if they choose not so favorite, recipes to others using the app.
           The user will also be able to categorize those recipes, and search for them based on those categories. 
-          Recipes will also have a feature to make them publicly accessible allowing them to be found without needing an account, 
+          Recipes will also have a feature to make them publicly accessible, allowing them to be found without needing an account, 
           or private to the user only.
         </p>
         <p className="mb-2">
           Future plans for post-MVP include: searching the web for recipes that a freely available and importing them to your account, 
           the ability to weigh searches based on criteria not necessarily tagged, and maybe another category to allow sharing recipes with specific users.
-          Also, searching by individual ingredients is another priority I want to implement, and if time permits, may add to the MVP.
+          Also, searching by individual ingredients is another priority I want to implement, and if time permits, I may add to the MVP.
+          Lastly, the ability to print out the recipe, and/or print out an ingredients list for the grocery store, is also planned.
           Other modifications will occur as I think of them, or when they are suggested by others.
         </p>
         <p className="mb-2">
-          Currently, I do not have plans to monetize this app, mostly because there are apparently a ton of recipe apps out there.
+          Currently, I do not have plans to monetize this app, mostly because there are more than a few recipe apps out there! 
           However my wife and I do plan to use it to help organize and choose meal-plans, and we&apos;ll share the app with whomever wants to use it.
-          The code will be open source, at least in the beginning.
         </p>
         <p className="mb-2">
           Admittedly the MVP deadline is a <span className="italic">bit</span> ambitious, but that is my goal, and I will do my best to meet it.

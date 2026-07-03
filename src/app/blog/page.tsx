@@ -9,8 +9,7 @@ export default function blog() {
 
       
       <p className="text-lg mb-4">
-        This text is largely placeholder. I intend to write more on my intent in making this website, and both my career plans
-        and maybe some thoughts on development either later today or tomorrow.
+        This text is largely placeholder. Currently implementing a way to store the posts in PostgreSQL.
       </p>
     </div>
   )
