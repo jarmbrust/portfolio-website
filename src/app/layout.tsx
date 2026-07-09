@@ -1,21 +1,22 @@
-import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
-import Link from "next/link";
+import type { Metadata } from 'next';
+import { Geist, Geist_Mono } from 'next/font/google';
+import './globals.css';
+import Link from 'next/link';
 
 const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+  variable: '--font-geist-sans',
+  subsets: ['latin'],
 });
 
 const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  variable: '--font-geist-mono',
+  subsets: ['latin'],
 });
 
 export const metadata: Metadata = {
-  title: "James Armbrust - Website",
-  description: "Website of James Armbrust, showcasing portfolio coding projects, resume, writings, and other stuff.",
+  title: 'James Armbrust - Website',
+  description:
+    'Website of James Armbrust, showcasing portfolio coding projects, resume, writings, and other stuff.',
 };
 
 export default function RootLayout({
@@ -31,20 +32,30 @@ export default function RootLayout({
         <nav className="w-full flex justify-center py-6 bg-gray-900 border-b border-gray-800">
           <ul className="flex gap-8 text-lg font-semibold">
             <li>
-              <Link href="/" className="hover:text-teal-500">Home</Link>
+              <Link href="/" className="hover:text-teal-500">
+                Home
+              </Link>
             </li>
             <li>
-              <Link href="/projects" className="hover:text-teal-500">Projects</Link>
+              <Link href="/projects" className="hover:text-teal-500">
+                Projects
+              </Link>
             </li>
             <li>
-              <Link href="/blog" className="hover:text-teal-500">Blog</Link>
+              <Link href="/blog" className="hover:text-teal-500">
+                Blog
+              </Link>
             </li>
             <li>
-              <Link href="/about" className="hover:text-teal-500">About</Link>
+              <Link href="/about" className="hover:text-teal-500">
+                About
+              </Link>
             </li>
           </ul>
         </nav>
-        <main className="flex-1 flex flex-col mt-12 mb-12 px-4 sm:px-8 md:px-32 bg-gray-950">{children}</main>
+        <main className="flex-1 flex flex-col bt-12 bb-12 px-4 sm:px-8 md:px-32 bg-gray-950">
+          {children}
+        </main>
       </body>
     </html>
   );
