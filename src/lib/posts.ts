@@ -1,14 +1,5 @@
 import { neon } from '@neondatabase/serverless';
 
-console.log('DATABASE_URL is:', JSON.stringify(process.env.DATABASE_URL));
-console.log('cwd:', process.cwd());
-console.log(
-  'files in cwd:',
-  require('fs')
-    .readdirSync(process.cwd())
-    .filter((f) => f.startsWith('.env')),
-);
-
 export type Post = {
   id: number;
   slug: string;
