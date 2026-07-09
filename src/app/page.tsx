@@ -1,7 +1,6 @@
-import Image from "next/image";
+import Image from 'next/image';
 
 export default function Home() {
-
   return (
     <div className="flex flex-col items-center justify-center min-h-[70vh] gap-8">
       <Image
@@ -14,7 +13,8 @@ export default function Home() {
       />
       <h1 className="text-4xl font-bold">Hi, I&apos;m James</h1>
       <p className="text-xl max-w-xl text-center">
-        Software Developer, Science and Sci-Fi Enthusiast, Game Master, History-Buff, and Good-Natured Hominoid.
+        Software Developer, Science and Sci-Fi Enthusiast, Game Master, History-Buff, and
+        Good-Natured Hominoid.
       </p>
     </div>
   );

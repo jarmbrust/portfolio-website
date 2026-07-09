@@ -53,9 +53,7 @@ export default function RootLayout({
             </li>
           </ul>
         </nav>
-        <main className="flex-1 flex flex-col bt-12 bb-12 px-4 sm:px-8 md:px-32 bg-gray-950">
-          {children}
-        </main>
+        <main className="flex-1 flex flex-col py-12 px-4 sm:px-8 md:px-32">{children}</main>
       </body>
     </html>
   );

@@ -10,7 +10,7 @@ While bootstrapping the Neon integration, a recurring "`Missing DATABASE_URL env
 
 `readdir()` reports a directory entry (with its inline size, mtime, owner, xattr indicator), but `lstat()` against the same path returns `No such file or directory`. The two POSIX code paths diverge.
 
-```
+```bash
 $ ls -la                       # shows .env.local present, 163 bytes
 -rw-r--r--@  1 name  staff  163 Jul  9 10:23 .env.local
 $ ls -la .env.local             # but direct lookup fails
