@@ -38,9 +38,9 @@ export default function Projects() {
           not done entering it in).
         </p>
         <p className="mb-2">
-          Future plans (post-MVP) include: searching the web for freely available recipes and
-          importing them to your account, the ability to weigh searches based on criteria not
-          necessarily tagged, and a possible feature to allow sharing recipes with specific users.
+          Future plans (post-MVP) include: users having the ability to search the web for freely
+          available recipes and importing them into their account, the ability to weigh searches
+          based on criteria not necessarily tagged, and sharing recipes with specific users.
           Searching by individual ingredients is another feature I want to implement, and if time
           permits, I may add to the MVP. Lastly, the ability to print out the recipe, and/or print
           out an ingredients list for a shopping trip in specified formats. Other modifications may

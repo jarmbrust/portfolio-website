@@ -11,10 +11,13 @@ export default function Home() {
         height={120}
         priority
       />
-      <h1 className="text-4xl font-bold">Hi, I&apos;m James</h1>
-      <p className="text-xl max-w-xl text-center">
-        Software Developer, Science and Sci-Fi Enthusiast, Game Master, History-Buff, and
-        Good-Natured Hominoid.
+      <h1 className="text-4xl font-bold">James Armbrust</h1>
+      <p className="text-2xl max-w-xl text-center">
+        Creative, Analytical, and Experienced Software Developer.
+      </p>
+      <p className="text-md italic max-w-md text-center">
+        Needless to say, he's also generally regarded as a friendly, competent, and well-nigh
+        good-natured hominoid.
       </p>
     </div>
   );
