@@ -8,13 +8,13 @@ export default function About() {
       </p>
       <p className="text-lg mb-4">
         As the label on the tin says, I am a software developer who loves creating interesting and
-        intuitive web apps which are helpful to people in any number of ways. I've worked in
-        software development for over ten years, and while the last few have seen a focus mainly the
-        frontend (React, Vue, TypeScript, etc), traditionally I have experience in the entire stack,
-        and even as a dedicated SQL developer. Currently, I am interested in returning to a more
-        diverse toolset across the stack, even if that ends up only being a subset of my role.
-        Additionally, I fancy myself a strong communicator, am experienced in mentoring juniors, and
-        possess a knack for explaining technical concepts to non-technical stake-holders.
+        intuitive web apps to assist people in any number of ways. I've worked in software
+        development for over ten years, and while the last few have seen a focus mainly the frontend
+        (React, Vue, TypeScript, etc), traditionally I have experience in the entire stack, and even
+        as a dedicated SQL developer. Currently, I am interested in returning to a more diverse
+        toolset across the stack, even if that ends up only being a subset of my role. Additionally,
+        I fancy myself a strong communicator, am experienced in mentoring juniors, and possess a
+        knack for explaining technical concepts to non-technical stake-holders.
       </p>
       <p className="text-lg mb-4">
         I have a number of hobbies I am passionate about! These include writing (speculative fiction
