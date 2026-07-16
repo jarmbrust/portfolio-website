@@ -25,15 +25,15 @@ export default function About() {
         renewed impetus to find a kiln and potter's wheel to rent.
       </p>
       <p className="text-lg mb-4">
-        I live with my awesome wife and our two dogs and three cats. We recently (about 6-8 months
-        ago as of this writing) relocated from sunny Colorado, to
+        I live with my awesome wife and our two old dogs and three odd cats. Recently (about 6-8
+        months ago as of this writing) we relocated from sunny Colorado, to
         slightly-less-sunny-but-a-lot-more-humid North Carolina. While I am originally from
-        Minnesota and thus have an ever-present danger of melting, she is originally from this area
-        and is doing quite well thank you very much. That said, we are indeed willing to relocate
-        from our current home in Winston-Salem to not only other cities in North Carolina, but many
-        other regions of the US or Canada!
+        Minnesota and thus have an ever-present danger of melting in this heat, she is originally
+        from this area and is doing just fine thank you very much. That said, we are both willing to
+        relocate from our current home in Winston-Salem to either other cities within North
+        Carolina, or many other regions of the US or Canada!
       </p>
-      <p className="text-lg mb-4">Thanks for reading, have a great day!</p>
+      <p className="text-lg mb-4">Thanks for reading, and have a great day!</p>
     </div>
   );
 }
