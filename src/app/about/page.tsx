@@ -3,8 +3,8 @@ export default function About() {
     <div className="flex flex-col w-full">
       <h1 className="text-4xl font-bold mb-4 justify-start">Who Am I?</h1>
       <p className="text-lg mb-4">
-        A very important question to ask oneself, although I find it generally a good idea to avoid
-        such philosophical inquires before coffee!
+        A very important question to ask oneself, although I find it a good idea to avoid such
+        philosophical inquires before coffee!
       </p>
       <p className="text-lg mb-4">
         As the label on the tin says, I am a software developer who loves creating interesting and
