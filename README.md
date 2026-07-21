@@ -1,13 +1,6 @@
 # Portfolio Website
 
-This is a personal website of mine for my portfolio and blog.
-
-I will write more on this soon...
-## TODO
-- describe purpose of app
-- technologies used
-- challenges
-- future plans
+A Next.js app.
 
 
 ## Local Environment Setup

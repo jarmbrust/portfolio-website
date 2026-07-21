@@ -29,9 +29,10 @@ export default function About() {
         months ago as of this writing) we relocated from sunny Colorado, to
         slightly-less-sunny-but-a-lot-more-humid North Carolina. While I am originally from
         Minnesota and thus have an ever-present danger of melting in this heat, she is originally
-        from this area and is doing just fine thank you very much. That said, we are both willing to
-        relocate from our current home in Winston-Salem to either other cities within North
-        Carolina, or many other regions of the US or Canada!
+        from this area and is doing just fine thank you very much. That said, for the right
+        opportunity we are willing to relocate from Winston-Salem to other cities around North
+        Carolina and the surrounding area, as well as to several other regions across the US or
+        Canada!
       </p>
       <p className="text-lg mb-4">Thanks for reading, and have a great day!</p>
     </div>

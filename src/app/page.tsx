@@ -16,8 +16,7 @@ export default function Home() {
         Creative, Analytical, and Experienced Software Developer.
       </p>
       <p className="text-md italic max-w-md text-center">
-        Needless to say, he's also regarded as a friendly, competent, and well-nigh good-natured
-        hominoid.
+        Regarded by many as a friendly, competent, and well-nigh good-natured hominoid.
       </p>
     </div>
   );

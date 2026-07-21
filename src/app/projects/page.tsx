@@ -28,24 +28,14 @@ export default function Projects() {
           .
         </p>
         <p className="mb-2">
-          Beyond a demonstration of my development skills and a deep-dive into a few technologies I
-          have a strong interest in, the app's purpose will be to allow users to create an account
-          and log in with it to author, store, modify, search, add notes to, and share their
-          favorite, or if they choose not so favorite, recipes to others using the app. The user
-          will also be able to categorize those recipes, and search for them based on those
-          categories. Recipes can be publicly accessible, allowing them to be found without needing
-          an account, or private to the user only if so desired (especially useful if the user is
-          not done entering it in).
+          For MVP, <span className="font-bold italic">Our Recipe App</span> will allow users to
+          create an account to author, store, modify, search, add notes, and share their favorite,
+          recipes. The user will also be able to categorize and search recipes within the app.
+          Recipes can be publicly accessible, allowing them to be found without needing an account,
+          or marked private if so desired (especially useful if the user is not done entering it
+          in).
         </p>
-        <p className="mb-2">
-          Future plans (post-MVP) include: users having the ability to search the web for freely
-          available recipes and importing them into their account, the ability to weigh searches
-          based on criteria not necessarily tagged, and sharing recipes with specific users.
-          Searching by individual ingredients is another feature I want to implement, and if time
-          permits, I may add to the MVP. Lastly, the ability to print out the recipe, and/or print
-          out an ingredients list for a shopping trip in specified formats. Other modifications may
-          be added as well.
-        </p>
+        <p className="mb-2">There are Post-MVP plans I will detail as they are implemented.</p>
       </div>
     </div>
   );
